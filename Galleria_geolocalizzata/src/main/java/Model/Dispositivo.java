@@ -5,7 +5,7 @@ public class Dispositivo {
     private String modello;
     private String proprietario;
 
-    public Dispositivo(String indirizzoMAC) {
-        this.indirizzoMAC = indirizzoMAC;
+    public Dispositivo(String indirizzo) {
+        this.indirizzoMAC = indirizzo;
     }
 }

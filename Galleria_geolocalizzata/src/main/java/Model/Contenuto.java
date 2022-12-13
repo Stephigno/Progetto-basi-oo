@@ -2,5 +2,5 @@ package Model;
 
 public class Contenuto {
     private String soggetto;
-    private String CodFoto;//chiave esterna
+    private String codFoto;//chiave esterna
 }

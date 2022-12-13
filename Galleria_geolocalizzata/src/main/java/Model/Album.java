@@ -1,5 +1,6 @@
 package Model;
 
+
 public class Album {
     private String codAlbum;
     private String nomeAlbum;
